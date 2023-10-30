@@ -7,7 +7,7 @@ Details: EMDSQA test corpus contains 120 wavs, the language is Mandarin, male:fe
 Speech: The original clean speech is from [1], and the degradations are processed by Zoom, Tencent Meeting, and Dingtalk.<br />
 Subjective Evaluation: Subjective evaluations are completed with 12 audio experts following the ITU-T P.808 [2] and ITU-R BS.1534 (MUSHRA) [3].<br />
 The MOS distributions of EMDSQA test corpus are shown in the following figure.<br />
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_EMDSQA.png)" width=50% height=50%>
+<img src="https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_EMDSQA.png" width=50% height=50%>
 
 # NISQA_test_corpus
 Besides EMDSQA test corpus, another 120 wavs are selected from NISQA corpus [4], the language is Engilish, and the sampling rate is 48kHz.<br />
