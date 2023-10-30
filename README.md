@@ -9,7 +9,19 @@ Speech: The original clean speech is from [1], and the degradations are processe
 
 Subjective Evaluation: Subjective evaluations are completed with 12 audio experts following the ITU-T P.808 [2] and ITU-R BS.1534 (MUSHRA) [3].
 
-The MOS distributions are shown in the following figure.
+The MOS distributions of EMDSQA test corpus are shown in the following figure.
 ![alt text](https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_EMDSQA.png)
+
+# NISQA_test_corpus
+Besides EMDSQA test corpus, another 120 wavs are selected from NISQA corpus [4], the language is Engilish, and the sampling rate is 48kHz.
+
+The MOS distributions of NISQA test corpus are shown in the following figure.
+![alt text](https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_NISQA.png)
+
+# Reference:
+[1] Reddy, Chandan KA, et al. "Interspeech 2021 deep noise suppression challenge." arXiv preprint arXiv:2101.01902 (2021).
+[2] Naderi, B., Cutler, R. "An Open Source Implementation of ITU- T Recommendation P.808 with Validation." in Interspeech, 2020, pp. 2862-2866.
+[3] Liebetrau, Judith, et al. "Revision of rec. ITU-R BS.1534." 137th AES convention 2014.
+[4] Mittag, G., Naderi, B., Chehadi, et al., "NISQA: A Deep CNN- Self-Attention Model for Multidimensional Speech Quality Prediction with Crowdsourced Datasets." in Interspeech, 2021, 2127-2131.
 
 
