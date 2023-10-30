@@ -10,7 +10,6 @@ Speech: The original clean speech is from [1], and the degradations are processe
 Subjective Evaluation: Subjective evaluations are completed with 12 audio experts following the ITU-T P.808 [2] and ITU-R BS.1534 (MUSHRA) [3].
 
 The MOS distributions are shown in the following figure.
-
-
+![alt text](https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_EMDSQA.png)
 
 
