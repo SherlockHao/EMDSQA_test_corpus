@@ -12,7 +12,7 @@ The MOS distributions of EMDSQA test corpus are shown in the following figure.<b
 # NISQA_test_corpus
 Besides EMDSQA test corpus, another 120 wavs are selected from NISQA corpus [4], the language is Engilish, and the sampling rate is 48kHz.<br />
 The MOS distributions of NISQA test corpus are shown in the following figure.
-![](https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_NISQA.png|width=100)
+<img src="https://github.com/SherlockHao/EMDSQA_test_corpus/blob/main/MOS_NISQA.png" width=50% height=50%>
 
 # Reference:
 [1] Reddy, Chandan KA, et al. "Interspeech 2021 deep noise suppression challenge." arXiv preprint arXiv:2101.01902 (2021).<br />
