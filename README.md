@@ -2,7 +2,7 @@
 We created a test corpus for speech quality assessment using speaker embeddings. This corpus has two goals:
 1. Aim at the speech via online communication applications such as Zoom, Skype, Google Meet, Discord, etc. So the degradation types are typical communication distortions, which contain background noise (20%), packet loss (20%), non-linear processing (20%), and low-volume (20%).
 2. Aim at the speech quality assessment using speaker embeddings. Both the matched reference and non-matched reference are provided for the degradation speech (i.e. non-matched reference stands for the reference speech is different from the degradation speech but from the same person).
-3. To address the reference challenge in real-world, two more non-matched reference conditions are provided. (a) ref_nm_noisy: References under different noises are provided since the end users may record their reference speech under noises. (b) ref_nm_difspeaker: Reference with wrong target speaker is also a common case in real world. 
+3. To address the reference challenge in real-world, two more non-matched reference conditions are provided. (a) ref_nm_noisy: References under different noises are provided since the end users may record their reference speech under noises. (b) ref_nm_difspeaker: Reference with wrong target speaker is also a common case in real world, therefore reference from different speaker condition is also provided.
 
 Details: EMDSQA test corpus contains 120 wavs, the language is Mandarin, male:female is 1:1, and the sampling rate is 48kHz.<br />
 Speech: The original clean speech is from [1], and the degradations are processed by Zoom, Tencent Meeting, and Dingtalk.<br />
